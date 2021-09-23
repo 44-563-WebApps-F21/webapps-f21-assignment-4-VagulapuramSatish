@@ -80,14 +80,14 @@ li{
 }
 li a{
     display: block;
-    color: wheat;
+    color: dimgray;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover:not(.active){
-    background-color: thistle;
+    background-color: firebrick;
 }
 .active{
     background-color: deeppink;
